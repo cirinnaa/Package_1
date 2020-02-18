@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: Package-1
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/cirinnaa/Package_1
+Author: Angelica Cirinna
+Author-email: angelica.cirinna@avon.com
+License: MIT
+Description: # Package_1
+        This package is set up as a test
+        
+        # Instructions
+        
+        # How to install
+Platform: UNKNOWN
